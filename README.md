@@ -4,6 +4,7 @@ Este projeto apresenta um modelo de Machine Learning para prever fraudes de form
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python**: Linguagem principal do projeto.
+- **IA e Machine Learning**
 - **Bibliotecas**: `pandas`, `scikit-learn`, `imblearn`, `openpyxl`, `numpy`, `joblib`.
 
 ## ✨ Funcionalidades
